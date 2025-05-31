@@ -1,6 +1,6 @@
 # 🪣 KantaShop – Studentski Projekt E-Trgovine
 
-Ovo je repozitorij za studentski projekt e-trgovine **"KantaShop"**, razvijen korištenjem **.NET 9** i **React 19** tehnologija. Projekt demonstrira izradu web aplikacije s osnovnim funkcionalnostima online trgovine.
+Ovo je repozitorij za studentski projekt e-trgovine **KantaShop**, razvijen korištenjem **.NET 9** i **React 19** tehnologija. Projekt demonstrira izradu web aplikacije s osnovnim funkcionalnostima online trgovine.
 
 ## 🔍 Kratki Opis
 
